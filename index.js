@@ -20,8 +20,9 @@ app.get("/", (req, res) => {
   });
 });
 
+// http://localhost:8081/users/
 app.use("/users", usersRouter);
-// app.use("/books", booksRouter);
+app.use("/books", booksRouter);
 
 
 
