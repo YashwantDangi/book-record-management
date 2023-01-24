@@ -44,3 +44,19 @@ If user missed the date to return, then user gets a fine of Rs. 50/-.
 
 If user has an issued book & the issued book is to be returned at 09-12-22.
 If user missed the date to return,and the users subscription also got expired, then user need to pay a fine of 150/- (100 + 50).
+
+
+
+
+
+
+<!-- 
+    MVC Arch
+        >> Model View Controller
+        >> Model & Controller : backend ( Node.js, MongoDB, Mongoose, etc.. )
+        >> View : Frontend ( Reacct.js, View.js, etc.. )
+        >> Controller : Brain or logic of ur route
+ -->
+
+
+ <!-- model: It speaks about the structure of MongoDB Collection -->
